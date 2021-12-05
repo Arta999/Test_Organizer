@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/fragment_1"
+        android:enabled="true"
+        android:icon="@drawable/outline_home_24"
+        android:title="@string/_1_fragment" />
+
+    <item
+        android:id="@+id/fragment_2"
+        android:enabled="true"
+        android:icon="@drawable/outline_library_books_24"
+        android:title="@string/_2_fragment" />
+
+    <item
+        android:id="@+id/fragment_3"
+        android:enabled="true"
+        android:icon="@drawable/outline_photo_24_2"
+        android:title="@string/_3_fragment" />
+
+    <item
+        android:id="@+id/fragment_4"
+        android:enabled="true"
+        android:icon="@drawable/baseline_public_black_24"
+        android:title="@string/_4_fragment" />
+
+    <item
+        android:id="@+id/fragment_5"
+        android:enabled="true"
+        android:icon="@drawable/outline_casino_24_6"
+        android:title="@string/_5_fragment" />
+
+
+</menu>
